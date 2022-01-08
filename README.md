@@ -1,5 +1,7 @@
 # Chess
 
+**Built via Visual studio 2015**
+
 Commands:
 
 - help      -  show help <br />

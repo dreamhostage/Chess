@@ -2,8 +2,8 @@
 
 Commands:
 
-help      -  show help
-move      -  move figure
+help         show help
+move         move figure
 castling  -  make castling
 save      -  save game
 load      -  load game

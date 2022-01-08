@@ -2,9 +2,9 @@
 
 Commands:
 
-help         show help
-move         move figure
-castling  -  make castling
-save      -  save game
-load      -  load game
-restart   -  restart game
+help      -  show help <br />
+move      -  move figure <br />
+castling  -  make castling <br />
+save      -  save game <br />
+load      -  load game <br />
+restart   -  restart game <br />
